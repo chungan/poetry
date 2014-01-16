@@ -1,0 +1,41 @@
+total 1366
+drwxrwx---  2 clin prodctn      0 Jan 17  2013 Adlm
+drwxr-x---  3 clin prodctn     83 Aug 17  2004 arHome
+drwxrwxr-x  2 clin prodctn    754 Jan 16 10:09 bin
+-rw-------  1 clin prodctn  65536 Aug 30  2011 cert8.db
+-rw-rw-r--  1 clin prodctn   1748 Oct 25 16:56 C:\nppdf32Log\debuglog.txt
+-rw-rw-r--  1 clin prodctn      0 Jun 15  2011 default.log
+drwx------  3 clin prodctn   1702 Dec  4 16:20 Desktop
+drwx------  9 clin prodctn    266 Jun 21  2011 doc
+drwxrwxr-x  9 clin prodctn    420 Oct 28 12:17 Documents
+lrwxrwxrwx  1 clin prodctn     31 Sep 13  2010 Download -> /jobs2/soft/users/clin/Download
+drwxr-xr-x  2 clin prodctn    754 Dec 16 12:12 Downloads
+drwxrwxr-x  6 clin prodctn    431 Dec 11 14:57 houdini13.0
+drwxrwxr-x  2 clin prodctn      0 Nov 13  2006 houdini8.0
+drwxrwxr-x  2 clin prodctn     28 Aug 13  2007 houdini8.1
+lrwxrwxrwx  1 clin prodctn     29 Sep  4  2009 Images -> /jobs2/soft/users/clin/Images
+drwxrwxr-x  2 clin prodctn    300 Sep  8  2011 inspector_test
+drwxrwxr-x  4 clin prodctn     48 Sep  8  2011 intel
+-rw-------  1 clin prodctn 131072 Aug 30  2011 key3.db
+lrwxrwxrwx  1 clin prodctn     30 Oct 25 16:14 Library -> /jobs2/soft/users/clin/Library
+drwx------  8 clin prodctn    552 Dec 21  2010 Mail
+drwxrwxr-x 31 clin prodctn    902 Oct  2 14:44 maya
+drwxrwxr-x  2 clin prodctn     97 Mar  5  2010 Menv30
+lrwxrwxrwx  1 clin prodctn     29 Jul  9  2010 Movies -> /jobs2/soft/users/clin/Movies
+lrwxrwxrwx  1 clin prodctn     28 Feb  1  2008 Music -> /jobs2/soft/users/clin/Music
+drwxrwxr-x  5 clin prodctn   1342 Jan 16 10:25 nsmail
+drwxrwxr-x  5 clin prodctn    162 May  3  2011 paint3d
+lrwxrwxrwx  1 clin prodctn     31 Jul  2  2008 Pictures -> /jobs2/soft/users/clin/Pictures
+drwxr-xr-x  2 clin prodctn      0 Nov  2  2010 presets
+drwxrwxr-x  5 clin prodctn    397 Sep  4 10:08 projects
+drwxr-xr-x  3 clin prodctn     54 Jul 13  2010 Public
+-rw-rw-r--  1 clin prodctn      0 Jul 31 13:11 pymel.log
+drwxrwxr-x  2 clin prodctn      0 Aug 30  2006 rmanpix
+drwxrwxr-x  3 clin prodctn     22 Aug 31  2006 rmantex
+drwxrwxr-x  3 clin prodctn     25 May  3  2011 rms
+drwx------ 37 clin prodctn   1210 Jun 21  2013 src
+drwxr-xr-x  2 clin prodctn      0 Oct 29  2012 Templates
+drwxr-xr-x  3 clin prodctn   1086 Jan 16 13:32 tmp
+lrwxrwxrwx  1 clin prodctn     29 Jul  9  2010 Videos -> /jobs2/soft/users/clin/Videos
+drwxr-xr-x  4 clin prodctn    269 Sep 20  2011 WINDOWS
+drwxrwxr-x  2 clin prodctn      0 Jun 29  2011 xgen
