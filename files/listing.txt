@@ -20,7 +20,6 @@ drwxrwxr-x  4 clin prodctn     48 Sep  8  2011 intel
 lrwxrwxrwx  1 clin prodctn     30 Oct 25 16:14 Library -> /jobs2/soft/users/clin/Library
 drwx------  8 clin prodctn    552 Dec 21  2010 Mail
 drwxrwxr-x 31 clin prodctn    902 Oct  2 14:44 maya
-drwxrwxr-x  2 clin prodctn     97 Mar  5  2010 Menv30
 lrwxrwxrwx  1 clin prodctn     29 Jul  9  2010 Movies -> /jobs2/soft/users/clin/Movies
 lrwxrwxrwx  1 clin prodctn     28 Feb  1  2008 Music -> /jobs2/soft/users/clin/Music
 drwxrwxr-x  5 clin prodctn   1342 Jan 16 10:25 nsmail
